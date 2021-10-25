@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## フラッシュカードアプリ　UDemyの題材
 
 This project is a starting point for a Flutter application.
 

@@ -6,4 +6,3 @@ A new Flutter project.
 
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 サンプル、モバイル開発に関するガイダンス、および完全なAPIリファレンス。
-つかwない。
